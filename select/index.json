@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "STOP YOUR SELF CONTROL",
+  "base_artist": "MARKO POLO",
+  "createdAt": "2025-12-07T03:15:06.241753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stop Your Self Control",
+      "artist": "Marko Polo",
+      "has_synced": true,
+      "path": "select/01_Stop_Your_Self_Control_Marko_Polo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stop Your Self Control",
+      "artist": "Marko Polo",
+      "has_synced": false,
+      "path": "select/02_Stop_Your_Self_Control_Marko_Polo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stop Your Self Control",
+      "artist": "Marko Polo",
+      "has_synced": true,
+      "path": "select/03_Stop_Your_Self_Control_Marko_Polo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stop Your Self-Control - Extended",
+      "artist": "Marko Polo",
+      "has_synced": true,
+      "path": "select/04_Stop_Your_Self-Control_-_Extended_Marko_Polo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stop Your Self Control (Extended Remastered)",
+      "artist": "Marko Polo",
+      "has_synced": false,
+      "path": "select/05_Stop_Your_Self_Control_(Extended_Remastered)_Marko_Polo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stop Your Self Control",
+      "artist": "Marko Polo",
+      "has_synced": false,
+      "path": "select/pl_01_Stop_Your_Self_Control_Marko_Polo.txt"
+    }
+  ]
+}
